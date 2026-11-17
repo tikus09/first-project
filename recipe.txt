@@ -4,3 +4,9 @@ Pancakes
 - 1 cup milk
 - 4 tbsp sugar
 - 1/2 cup chocolate chips
+
+Steps
+1. Mix everything in a bowl.
+2. Heat a pan with a little butter.
+3. Pour in 1/4 cup of batter per pancake.
+4. Flip when bubbles appear. Cook 1 more minute.
